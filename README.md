@@ -1,6 +1,6 @@
 # sails-cli
 
-Experimental standalone CLI for Sails.  Not ready for use yet, unless you're working on it.
+Experimental standalone CLI for Sails.  Not ready for use yet.
 
 
 ### What is this?
