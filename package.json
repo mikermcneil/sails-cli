@@ -1,0 +1,35 @@
+{
+  "name": "sails-cli",
+  "author": "Mike McNeil <@mikermcneil>",
+  "version": "0.1.0",
+  "description": "Experimental standalone CLI package for Sails.",
+  "homepage": "http://sailsjs.org",
+  "keywords": [],
+  "bin": {
+    "sails": "./bin/sails.js"
+  },
+  "scripts": {},
+  "dependencies": {
+    "anchor": "~0.10.5",
+    "async": "1.5.0",
+    "captains-log": "~0.11.11",
+    "colors": "1.1.2",
+    "commander": "2.9.0",
+    "lodash": "3.10.1",
+    "rc": "1.0.1",
+    "reportback": "~0.1.9",
+    "sails-generate": "~0.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/balderdashy/sails.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/balderdashy/sails/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  }
+}
