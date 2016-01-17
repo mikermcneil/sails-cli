@@ -1,7 +1,7 @@
 {
   "name": "sails-cli",
   "author": "Mike McNeil <@mikermcneil>",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Experimental standalone CLI package for Sails.",
   "homepage": "http://sailsjs.org",
   "keywords": [],
