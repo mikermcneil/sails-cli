@@ -22,12 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails.git"
+    "url": "git://github.com/mikermcneil/sails-cli.git"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "http://github.com/balderdashy/sails/issues"
-  },
   "engines": {
     "node": ">= 0.10.0",
     "npm": ">= 1.4.0"
