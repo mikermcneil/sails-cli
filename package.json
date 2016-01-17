@@ -10,7 +10,6 @@
   },
   "scripts": {},
   "dependencies": {
-    "anchor": "~0.10.5",
     "async": "1.5.0",
     "captains-log": "~0.11.11",
     "colors": "1.1.2",
